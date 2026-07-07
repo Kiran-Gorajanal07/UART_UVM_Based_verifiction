@@ -307,8 +307,8 @@ Electronics & Communication Engineering Graduate
 
 ASIC Design & Verification Enthusiast
 
-- GitHub: https://github.com/Kiran-G
-- LinkedIn: *(Add your profile)*
+- GitHub: [https://github.com/Kiran-Gorajanal07]
+- LinkedIn: [https://www.linkedin.com/in/kiran-gorajanal-168b3622a/]
 - Email: kgorajanal@gmail.com
 
 ---
